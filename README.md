@@ -79,7 +79,7 @@ Exemple for set: ```python3 alarm.py -s 23 56```
 
 ![](https://j.gifs.com/2x7Ezz.gif)
 
-
+![](https://j.gifs.com/mOYgOr.gif)
 
 
 
