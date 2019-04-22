@@ -77,7 +77,7 @@ Set Alarm: ```python3 alarm.py -s [hour] [minute]```
 
 Exemple for set: ```python3 alarm.py -s 23 56```
 
-![alt text](images/set.mp4)
+[![Demo Set](https://gifs.com/gif/set-first-half-2x7Ezz)
 
 
 
