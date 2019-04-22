@@ -34,7 +34,7 @@ def alarmLogic(hour, minute):
             currHour, currMinute = alarm.getCurrentTime()
             if currHour == alarm.getHour() and currMinute == alarm.getMinute():
                 alarm.setMasterVolume()
-                for times in range(3):
+                for times in range(30):
                     alarm.espeakMessage()
                     alarm.playSound()
                     alarm.playSound()

@@ -21,7 +21,7 @@ The logic is pretty simple.
 
  - The ```espeak``` and ```mpg123``` steps will run 30 times.
 
- - You can use ```Ctrl-C``` to close the alarm.
+ - You can use ```Ctrl-C``` to close the alarm. Press it multiple times.
 
 ## Dependencies
 
