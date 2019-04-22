@@ -50,7 +50,7 @@ Features.
     Development tools are available for producing and tuning phoneme data.
     Written in C. 
 
-Official site: ```http://espeak.sourceforge.net```
+Official site: http://espeak.sourceforge.net
 
 Ubuntu users: ```apt install espeak```
 
@@ -62,7 +62,7 @@ It is free software licensed under LGPL 2.1 .
 
 Note that nowadays, the mpg123 decoder core can work with floating point or integer math and with some tuning between accuracy and performance at build-time, using assembly optimizations for several platforms, depending on your build configuration. There is detection and selection of assembly optimisations on x86, x86-64, and ARM at program runtime. It's fast, it's high-quality. Just use it;-) 
 
-Official site: ```https://www.mpg123.de/```
+Official site: https://www.mpg123.de/
 
 Ubuntu users: ```apt install mpg123```
 
