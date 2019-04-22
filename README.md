@@ -33,22 +33,22 @@ eSpeak uses a "formant synthesis" method. This allows many languages to be provi
 
 eSpeak is available as:
 
-    A command line program (Linux and Windows) to speak text from a file or from stdin.
-    A shared library version for use by other programs. (On Windows this is a DLL).
-    A SAPI5 version for Windows, so it can be used with screen-readers and other programs that support the Windows SAPI5 interface.
-    eSpeak has been ported to other platforms, including Android, Mac OSX and Solaris. 
+A command line program (Linux and Windows) to speak text from a file or from stdin.
+A shared library version for use by other programs. (On Windows this is a DLL).
+A SAPI5 version for Windows, so it can be used with screen-readers and other programs that support the Windows SAPI5 interface.
+eSpeak has been ported to other platforms, including Android, Mac OSX and Solaris. 
 
 Features.
 
-    Includes different Voices, whose characteristics can be altered.
-    Can produce speech output as a WAV file.
-    SSML (Speech Synthesis Markup Language) is supported (not complete), and also HTML.
-    Compact size. The program and its data, including many languages, totals about 2 Mbytes.
-    Can be used as a front-end to MBROLA diphone voices, see mbrola.html. eSpeak converts text to phonemes with pitch and length information.
-    Can translate text into phoneme codes, so it could be adapted as a front end for another speech synthesis engine.
-    Potential for other languages. Several are included in varying stages of progress. Help from native speakers for these or other languages is welcome.
-    Development tools are available for producing and tuning phoneme data.
-    Written in C. 
+Includes different Voices, whose characteristics can be altered.
+Can produce speech output as a WAV file.
+SSML (Speech Synthesis Markup Language) is supported (not complete), and also HTML.
+Compact size. The program and its data, including many languages, totals about 2 Mbytes.
+Can be used as a front-end to MBROLA diphone voices, see mbrola.html. eSpeak converts text to phonemes with pitch and length information.
+Can translate text into phoneme codes, so it could be adapted as a front end for another speech synthesis engine.
+Potential for other languages. Several are included in varying stages of progress. Help from native speakers for these or other languages is welcome.
+Development tools are available for producing and tuning phoneme data.
+Written in C. 
 
 Official site: http://espeak.sourceforge.net
 
@@ -75,7 +75,9 @@ For Help: ```python3 alarm.py -h```
 
 Set Alarm: ```python3 alarm.py -s [hour] [minute]```
 
-Exemple for set: ```python3 alarm.py -s 23 10```
+Exemple for set: ```python3 alarm.py -s 23 56```
+
+![alt text](images/set.mp4)
 
 
 
